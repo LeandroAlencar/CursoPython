@@ -1,0 +1,5 @@
+print('Questão 3')
+nome_2 = input('Digite seu nome: ')
+idade = int(input('Digite sua idade: '))
+print('O seu nome é',nome_2, 'sua idade é', idade, 'anos')
+print()
